@@ -1,0 +1,15 @@
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\bin\Debug\net8.0\TPMOD06.exe
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\bin\Debug\net8.0\TPMOD06.deps.json
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\bin\Debug\net8.0\TPMOD06.runtimeconfig.json
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\bin\Debug\net8.0\TPMOD06.dll
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\bin\Debug\net8.0\TPMOD06.pdb
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\TPMOD06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\TPMOD06.AssemblyInfoInputs.cache
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\TPMOD06.AssemblyInfo.cs
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\TPMOD06.csproj.CoreCompileInputs.cache
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\TPMOD06.sourcelink.json
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\TPMOD06.dll
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\refint\TPMOD06.dll
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\TPMOD06.pdb
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\TPMOD06.genruntimeconfig.cache
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL06\TPMOD06\TPMOD06\obj\Debug\net8.0\ref\TPMOD06.dll
